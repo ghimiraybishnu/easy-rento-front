@@ -1,0 +1,38 @@
+[
+  {
+    "name": "New Baneshwor Apartment",
+    "price": "47,000",
+    "detail": "Kathmandu City Street, Kathmandu, Nepal (Near Civil Hospital)",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kanak Apartment",
+    "price": "20,353",
+    "detail": "Budanilkantha ward 12 Kathmandu Nepal (Near Ganesh Chowk)",
+    "image": "./public/kanak.jpg"
+  },
+  {
+    "name": "Butwal City  Garden",
+    "price": "35,853",
+    "detail": "Tilottama ward 2 Yogikuti Nepal (Near Tilottama Campus)",
+    "image": "./r3.png"
+  },
+  {
+    "name": "Lumbini Villa",
+    "price": "65,043",
+    "detail": "Lumbini, Rupandehi Nepal (Near Gautam Buddha Intl Airpot)",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Arusiya Apartment",
+    "price": "16,353",
+    "detail": "Arusiya Apartment Kathmandu. Boudhanath Marg, Kathmandu, Nepal. Hotels-kathmandu >. Unrated Ramhiti, Kathmandu 44600",
+    "image": "./r2.png"
+  },
+  {
+    "name": "Vacation rentals in Budhanilkantha",
+    "price": "35,853",
+    "detail": "Kathmandu City Street, Kathmandu, Nepal (Near Civil Hospital)",
+    "image": "./r3.png"
+  }
+]

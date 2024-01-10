@@ -1,0 +1,26 @@
+.h-wrapper{   
+    background: var(--secondary)
+}
+
+:root {
+    --secondary: #FF9843;
+}
+
+.h-container{
+    justify-content: space-between;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background: var(--secondary);
+    text-transform: uppercase;
+    
+    /* color: var(--secondary); */
+}
+
+.h-menu{
+    /* gap: 2rem; */
+}
+
+.h-menu>*:hover{
+    cursor: pointer;
+
+}
